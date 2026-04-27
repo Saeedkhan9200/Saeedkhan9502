@@ -7,5 +7,5 @@
 - +923043469363 Whatsap Number
 
 ## Skills
-Java | Android App Development | Git | GitHub Actions | 
+Java | Android App Development | Git | GitHub Actions | Flutter App Development
 
