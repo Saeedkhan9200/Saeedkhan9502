@@ -3,7 +3,7 @@
 
 - 🔭 Currently: building Console Side projects by using Java Language 
 - 🌱 Learning: Flutter App Developement / Reactive programming / Android App Development/ Spring Boot Framework 
-- 📫 Reach me: saeedkhan9502@gmail.com.com
+- 📫 Reach me: saeedkhan9502@gmail.com
 - +923043469363 Whatsap Number
 
 ## Skills
